@@ -1,5 +1,5 @@
 # RefESR
- An effcient ensemble learing super-resolution method (IEEE TNNLS)
+ An effcient ensemble learing super-resolution method (IEEE TCYB)
 
 Paper: https://ieeexplore.ieee.org/document/8656554 (IEEE Xplore) 
        https://arxiv.org/abs/1905.04696 (arXiv) 
